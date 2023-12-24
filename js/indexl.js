@@ -67,7 +67,7 @@ var config = {
 };
 
 
-/*S.Drawing = (function () {
+S.Drawing = (function () {
   var canvas,
       context,
       renderFn
@@ -753,4 +753,4 @@ S.Shape = (function () {
 
 
 S.init();
-*/
+
